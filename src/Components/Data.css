@@ -1,0 +1,16 @@
+.btn1{
+    width: 60px;
+    height: 40px;
+    border-radius: solid 10px #00b4d8;
+    border-radius: 10px;
+    color: orangered;
+    background-image: linear-gradient(to right bottom, #90e0ef, #64e4d1, #7ce194, #b8d44a, #ffb703);
+}
+.btn2{
+    /* width: 100px; */
+    height: 40px;
+    color: white;
+    border: 3px solid #386641;
+    border-radius: 15px;
+    background-color: #a7c957;
+}
